@@ -14,7 +14,7 @@
 <br/>
 <br/>
   
-## Some Stats
+<h2  align="left">🕵🏼 Some stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=DBCBA7&icon_color=DBCBA7&text_color=daf7dc&bg_color=38342B" border=0 style="border:0; text-decoration:none; outline:none">
 
 <!--
