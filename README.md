@@ -4,6 +4,7 @@
 
   
 <h2  align="left">📫 Reach me on</h2>
+
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/gr%C3%A9gori-sabel-7b80901a3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -11,15 +12,22 @@
 </p>  
 
 
-<br/>
-<br/>
   
 <h2  align="left">🕵🏼 Some stats</h2>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=DBCBA7&icon_color=DBCBA7&text_color=daf7dc&bg_color=38342B" border=0 style="border:0; text-decoration:none; outline:none">
 
+<a href="https://www.youtube.com/watch?v=wuJIqmha2Hk">
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&hide_title=true&title_color=DBCBA7&icon_color=DBCBA7&text_color=daf7dc&bg_color=DEG,282854,4B2C4D" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greg-art&hide_title=true&hide_border=true&text_color=daf7dc&layout=compact&bg_color=DEG,4B2C4D,592E34&theme=graywhite" />
+</a>
+
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=DBCBA7&icon_color=DBCBA7&text_color=daf7dc&bg_color=38342B" border=0 style="border:0; text-decoration:none; outline:none">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=000000&icon_color=000000&text_color=E3E3E3&bg_color=DEG,BAA32F,A36E31,BD4839" border=0 style="border:0; text-decoration:none; outline:none">
 -->
+
 
 
 
