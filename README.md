@@ -1,9 +1,9 @@
 ## Hi there, I am Grégori Sabel 👋
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Greg-art&label=Visualizações&color=blue&style=plastic" alt="Greg-art" /> </p>
+
 ### Informations
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Greg-art&label=Visualizações&color=blue&style=plastic" alt="Greg-art" /> </p>
-
 
 <a href="https://www.linkedin.com/in/gr%C3%A9gori-sabel-7b80901a3/" target="_blank">
   <img alt="Meu Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
