@@ -15,17 +15,17 @@
   Greg-art 
 </a>
 
-
-
 <br/>
 <br/>
   
 ## Some Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=DBCBA7&icon_color=F9F9BD&text_color=daf7dc&bg_color=38342B" border=0 style="border:0; text-decoration:none; outline:none">
+<img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=DBCBA7&icon_color=DBCBA7&text_color=daf7dc&bg_color=38342B" border=0 style="border:0; text-decoration:none; outline:none">
 
 <!--
-<img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=86AB6F&icon_color=86AB6F&text_color=545240&bg_color=FFFFFF" border="0" style="border:0; text-decoration:none; outline:none">
+<img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=000000&icon_color=000000&text_color=E3E3E3&bg_color=DEG,BAA32F,A36E31,BD4839" border=0 style="border:0; text-decoration:none; outline:none">
 -->
+
+
 
 
 
