@@ -10,14 +10,16 @@
 </a>
 -->
 
-<a href="https://www.linkedin.com/in/gr%C3%A9gori-sabel-7b80901a3/">
+<a href="https://www.linkedin.com/in/gr%C3%A9gori-sabel-7b80901a3/" target="_blank">
   <img alt="Meu Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  My Linkedin
 </a>
 
 <br/>
 
-<a href="https://github.com/greg-art">
+<a href="https://github.com/greg-art" target="_blank">
   <img alt="Meu Github " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  My Github <-
 </a>
 
 
