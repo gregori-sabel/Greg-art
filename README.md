@@ -6,6 +6,25 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=86AB6F&icon_color=86AB6F&text_color=545240&bg_color=FFFFFF" border="0" style="border:0; text-decoration:none; outline:none">
 -->
 
+query {
+  user(login: "rjoydip") {
+    repositories(isFork: false, first: 100) {
+      nodes {
+        languages(first: 1) {
+          edges {
+            size
+            node {
+              color
+              name
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
 <!--
 **Greg-art/Greg-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
