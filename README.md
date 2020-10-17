@@ -2,8 +2,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Greg-art&label=Visualizações&color=blue&style=plastic" alt="Greg-art" /> </p>
 
-  
-<h2  align="left">📫 Reach me on</h2>
 
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/gr%C3%A9gori-sabel-7b80901a3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
