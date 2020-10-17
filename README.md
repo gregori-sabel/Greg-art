@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=DBCBA7&icon_color=F9F9BD&text_color=daf7dc&bg_color=38342B">
+<img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=DBCBA7&icon_color=F9F9BD&text_color=daf7dc&bg_color=38342Btyle="border:0; text-decoration:none; outline:none">
 
-<img src="https://camo.githubusercontent.com/6c9001739cde470b2ed765ed66513da61ed2fcec/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d74686577686974656834742673686f775f69636f6e733d74727565267468656d653d626c75652d677265656e266c61796f75743d636f6d70616374">
-<!--
+
 **Greg-art/Greg-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
