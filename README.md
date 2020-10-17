@@ -1,8 +1,8 @@
-## Hi there, I am Grégori Sabel 👋
+# Hi there, I am Grégori Sabel 👋
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Greg-art&label=Visualizações&color=blue&style=plastic" alt="Greg-art" /> </p>
 
-### Informations
+## Informations
   
 
 <a href="https://www.linkedin.com/in/gr%C3%A9gori-sabel-7b80901a3/" target="_blank">
@@ -20,7 +20,7 @@
 <br/>
 <br/>
   
-### Some Stats
+## Some Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&title_color=DBCBA7&icon_color=F9F9BD&text_color=daf7dc&bg_color=38342B" border=0 style="border:0; text-decoration:none; outline:none">
 
 <!--
