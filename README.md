@@ -6,11 +6,11 @@
   <a href="mailto:gregori.sabel.pro@gmail.com?subject=Hello%20Greg,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>  
 
+<br>
 
 - Making some games in unity
 - Working in a project with python
 
-<br>
 
   
 <h2  align="left">🕵🏼 Some stats</h2>
