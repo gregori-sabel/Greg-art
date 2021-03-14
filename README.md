@@ -1,6 +1,5 @@
 <h1  align="left">👋 Hi there, I am Grégori Sabel </h1>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Greg-art&label=Visualizações&color=blue&style=plastic" alt="Greg-art" /> </p>
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/gr%C3%A9gori-sabel-7b80901a3/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:gregori.sabel.pro@gmail.com?subject=Hello%20Greg,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
