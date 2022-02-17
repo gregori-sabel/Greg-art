@@ -7,8 +7,7 @@
 
 <br>
 
-- Making some games in unity
-- Working in a project with python
+- Mistery
 
 
   
