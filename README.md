@@ -7,7 +7,8 @@
 
 <br>
 
-- Mistery
+- Studyng ReactJS
+- Producing some videos
 
 
   
