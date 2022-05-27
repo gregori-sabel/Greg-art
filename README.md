@@ -10,9 +10,9 @@
 - Studying ReactJS
 - Producing some videos
 
-
-  
-<h2  align="left">🕵🏼 Some stats</h2>
+<br> 
+<br>
+<!-- <h2  align="left">🕵🏼 Some stats</h2> -->
 
 <a href="https://www.youtube.com/watch?v=wuJIqmha2Hk">
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Greg-art&&show_icons=true&hide_title=true&title_color=DBCBA7&icon_color=DBCBA7&text_color=daf7dc&bg_color=DEG,282854,4B2C4D" />
