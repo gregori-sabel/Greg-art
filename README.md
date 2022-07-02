@@ -7,7 +7,7 @@
 
 <br>
 
-- Studying ReactJS
+- Studying ReactJS and NodeJS
 - Producing some videos
 
 <br> 
